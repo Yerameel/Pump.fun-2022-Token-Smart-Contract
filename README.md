@@ -57,5 +57,5 @@ https://github.com/user-attachments/assets/54606cb9-3be0-49a9-a92d-2759d0648f4b
 ### Raydium migration and other detailed code are reserved for private, you can contact me for more understanding about the project and other features
 
 ### 👤 Author
-#### Twitter: [@Rabnail_SOL](https://twitter.com/Rabnail_SOL)   
-#### Telegram: [@Rabnail_SOL](https://t.me/Rabnail_SOL)   
+#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
+#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
